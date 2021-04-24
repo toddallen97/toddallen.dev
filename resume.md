@@ -64,13 +64,18 @@ Cloud engineer with a passion for solving business needs through rapidly scalabl
 *	HTML, CSS, PHP
 
 ### Tools
-*	Google Cloud
 *	Oracle Cloud
-*	Linux
+*	Google Cloud
+*	Linux systems
+*	Visual Studio Code
+*	Oracle SQL Developer
+*	SoftwareAG
+*	MyWebMethods
 *	Git
 *	Microsoft Office
 *	SalesForce
-*	WebMethods
+*	Jira
+*	Confluence
 
 ## Contact
 
