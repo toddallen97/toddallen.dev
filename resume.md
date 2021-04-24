@@ -12,7 +12,7 @@ Cloud engineer with a passion for solving business needs through rapidly scalabl
 
 *	Support external clients with integration, connectivity, and functional usage of SaaS software packages via external meetings, SalesForce cases, and email support
 *	Maintain application and database compute instances on the Google Cloud and Oracle Cloud by pulling application error logs, creating system health checks in Nagios, and auditing connectivity access
-*   Assist interal customers with requests for data, diagnostics data, and reports
+*   Assist internal customers with requests for data, diagnostics data, and reports
 
 ### Programmer Tech I
 
