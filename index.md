@@ -18,9 +18,8 @@ I am a Cloud Engineer based in Atlanta, Georgia. My passions are in DevOps, dist
 
 ## Education 🍊
 
-### BS in Computer Science/Cybersecurity minor
-
-#### University of Tennessee – Knoxville, TN
+BS in Computer Science/Cybersecurity minor
+University of Tennessee – Knoxville, TN
 
 
 ## Experience
