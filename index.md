@@ -2,13 +2,18 @@
 
 Hello stranger!
 
-I am a Cloud Engineer based in Atlanta, Georgia. Specifically, my passions are in DevOps, distributed systems, and massively parallel computing. My current position is Senior Analyst in the Cloud Services department at [Manhattan Associates](https://manh.com).  
+I am a Cloud Engineer based in Atlanta, Georgia. My passions are in DevOps, distributed systems, and massively parallel computing. My current position is Senior Analyst in the Cloud Services department at [Manhattan Associates](https://manh.com).  
 
 
 ## Interests
 
 * Automation/Scripting
-* 
+* Security-first Designs
+* Optimized and HA Infrastructure
+* Networking
+* Linux (13 years of experience)
+* Motorcycles
+* Cooking
 
 
 ## Education 🍊
