@@ -4,19 +4,19 @@ Hello stranger!
 
 I am a Cloud Engineer based in Atlanta, Georgia. Specifically, my passions are in DevOps, distributed systems, and massively parallel computing. My current position is Senior Analyst in the Cloud Services department at [Manhattan Associates](https://manh.com).  
 
+
 ## Interests
 
 * Automation/Scripting
 * 
 
+
 ## Education 🍊
 
-### Bachelor of Science in Computer Science, minor in Cybersecurity
+### BS in Computer Science/Cybersecurity minor
 
 #### University of Tennessee – Knoxville, TN
 
-##### August 2016 – May 2020
-*	Senior Mentor in the Engineering Mentor Program (2019 – 2020)
 
 ## Experience
 
@@ -51,6 +51,7 @@ I am a Cloud Engineer based in Atlanta, Georgia. Specifically, my passions are i
 *	Analyzed and parallelized scientific applications across 12 graphic processor cards and 6 compute nodes with NVIDIA CUDA and Intel C compilers for optimal speedup
 *	Completed as 2nd overall fastest system and 1st place in the LINPACK assessment, the best result to date
 
+
 ## Skills
  
 ### Languages
@@ -71,6 +72,7 @@ I am a Cloud Engineer based in Atlanta, Georgia. Specifically, my passions are i
 *	Microsoft Office
 *	SalesForce
 *	Jira/Confluence
+
 
 ## Contact
 
