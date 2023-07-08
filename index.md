@@ -9,7 +9,7 @@ I am a Cloud Engineer based in Atlanta, Georgia. Specifically, my passions are i
 * Automation/Scripting
 * 
 
-## Education
+## Education 🍊
 
 ### Bachelor of Science in Computer Science, minor in Cybersecurity
 
