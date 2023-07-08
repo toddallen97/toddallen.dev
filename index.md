@@ -19,20 +19,21 @@ I am a Cloud Engineer based in Atlanta, Georgia. My passions are in DevOps, dist
 ## Education 🍊
 
 BS in Computer Science/Cybersecurity minor
+
 University of Tennessee – Knoxville, TN
 
 
 ## Experience
 
-### Analyst, Cloud Services
+### Senior Analyst, Cloud Services
 
 #### Manhattan Associates - Atlanta, GA
 
 ##### March 2021 - Present
 
-*	Support external clients with integration, connectivity, and functional usage of SaaS software packages via external meetings, SalesForce cases, and email support
-*	Maintain application and database compute instances on the Google Cloud and Oracle Cloud by pulling application error logs, creating system health checks in Nagios, and auditing connectivity access
-*   Assist internal customers with requests for data, diagnostics data, and reports
+*	Support clients with integration, connectivity, and functional usage of SaaS software packages via external meetings, SalesForce cases, and email support
+*	Maintain application and database compute on the Google Cloud and Oracle Cloud by pulling application error logs, monitoring system health checks in Nagios, and auditing connectivity access
+* Assist internal customers with requests for data, diagnostics data, and reports
 
 ### Programmer Tech I
 
